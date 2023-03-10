@@ -37,3 +37,11 @@ body {
   transform-style: preserve-3d;
   /* transition: var(--transition)!important; */
 }
+.link {
+  display: inline-block;
+  background: #14d480;
+  color: #fff;
+  padding: 1rem 1.5rem;
+  text-decoration: none;
+  border-radius: 3px;
+}
