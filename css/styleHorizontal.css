@@ -39,6 +39,8 @@ body {
 }
 .link {
   color: aliceblue;
+  position: absolute;
+
   /* display: inline-block;
   background: #14d480;
   color: #fff;
